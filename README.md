@@ -45,7 +45,7 @@ The following list contains links to the statements of each problem and its resp
 **Day 29**: [Question](https://www.hackerrank.com/challenges/30-bitwise-and/problem) - [Solutions](https://github.com/AlexJCM/30-days-of-code/tree/master/Day%2029%20-%20Bitwise%20AND) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 **Day 09**: [Question](https://www.hackerrank.com/challenges/30-recursion/problem) - [Solutions](https://github.com/AlexJCM/30-days-of-code/tree/master/Day%2009%20-%20Recursion) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**Day 19**: [Question](https://www.hackerrank.com/challenges/30-interfaces/problem) - [Solutions](https://github.com/AlexJCM/30-days-of-code/tree/master/Day%2010%20-%20Interfaces) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Day 19**: [Question](https://www.hackerrank.com/challenges/30-interfaces/problem) - [Solutions](https://github.com/AlexJCM/30-days-of-code/tree/master/Day%2019%20-%20Interfaces) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #
 
